@@ -2,7 +2,7 @@
 ECG R-Peak and RR-interval detection and calculation
 
 
-Two scripts for R-Peak Detection and to calculate de RR interval.
+Two scripts for R-Peak Detection and to calculate the RR interval.
 
 To test both scripts the BiospPy and the WFDB (version 1.39) libraries need to be installed. 
 
